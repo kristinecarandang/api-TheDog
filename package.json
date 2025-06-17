@@ -1,0 +1,22 @@
+{
+  "name": "api-thedog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristinecarandang/api-TheDog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristinecarandang/api-TheDog/issues"
+  },
+  "homepage": "https://github.com/kristinecarandang/api-TheDog#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.3"
+  }
+}
